@@ -1,0 +1,11 @@
+{
+    "Old Testament|King": ["David", "Solomon", "Saul", "Hezekiah"],
+    "New Testament|Disciple": ["Peter", "John", "James", "Andrew"],
+    "Old Testament|Prophet": ["Isaiah", "Jeremiah", "Daniel", "Elijah"],
+    "Female|Old Testament": ["Ruth", "Esther", "Sarah", "Rebekah"],
+    "New Testament|Apostle": ["Paul", "Barnabas"],
+    "Male|New Testament": ["Peter", "Paul", "John", "Matthew"],
+    "Angel|Both Testaments": ["Gabriel", "Michael"],
+    "Old Testament|Patriarch": ["Abraham", "Jacob", "Isaac"],
+    "New Testament|Mother of Jesus": ["Mary"]
+}
